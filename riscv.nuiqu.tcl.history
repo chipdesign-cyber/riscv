@@ -1,0 +1,7 @@
+# TCL commands history
+# Fri Oct 16 18:50:09 2026
+dni::trigger_gui -command gui_command::rtl_analyzer::unfold -options {"checkpoint":"user_runs/default_run/elaborated","object":"button @hier_unfold inst u0 riscvsystem {}"}
+dni::selection -action set -object {}
+dni::selection -action set -object {instance::riscv::u0|cpu}
+dni::selection -action set -object {instance::riscv::u0|cpu|riscvcpu_0}
+dni::selection -action set -object {instance::riscv::u0|cpu|riscvcpu_0|DCache}

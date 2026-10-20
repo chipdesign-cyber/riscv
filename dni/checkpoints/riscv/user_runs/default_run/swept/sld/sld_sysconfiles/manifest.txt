@@ -1,0 +1,10 @@
+22 serialization::archive 19 0 1 0 0 10 0 0 0 22 alt_sld_fab_0.sopcinfo 0 0 10 text_model 0 0 0 1 1 
+ 22 reset_release.sopcinfo 10 text_model 0 1 1 
+ 20 riscvsystem.sopcinfo 10 text_model 0 1 1 
+ 29 riscvsystem_clock_in.sopcinfo 10 text_model 0 1 1 
+ 42 riscvsystem_intel_onchip_memory_0.sopcinfo 10 text_model 0 1 1 
+ 28 riscvsystem_iopll_0.sopcinfo 10 text_model 0 1 1 
+ 26 riscvsystem_pio_0.sopcinfo 10 text_model 0 1 1 
+ 26 riscvsystem_pio_1.sopcinfo 10 text_model 0 1 1 
+ 29 riscvsystem_reset_in.sopcinfo 10 text_model 0 1 1 
+ 31 riscvsystem_riscvcpu_0.sopcinfo 10 text_model 0 1 1 
